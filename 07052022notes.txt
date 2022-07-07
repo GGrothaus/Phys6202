@@ -1,0 +1,7 @@
+I should audit this course? why not
+
+ps aux | grep jupyter   #this command did not work in git bash...
+https://explainshell.com/explain?cmd=ps+aux+%7C+grep+jupyter
+
+kill -9  XXXX     #kills any processes running that are taking memory
+
